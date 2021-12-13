@@ -3,7 +3,7 @@
 Programa de comunicación serial entre un **Seeeduino Xiao** y un **usb-TTL**, 
 en resumen sirve para enviar mensajes por medio de PuTTY al Seeeduino.
 
-*   [RaspberryPico-usb_TTL](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/Main.ino)
+*   [Arduino-USB_TTL](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/Main.ino)
    
 ----
 #
@@ -38,4 +38,4 @@ Al enviar un mensaje el Arduino lo lee y retorna el mismo mensaje.
 Links de interes: 
 
 * [P4t0R-GitHub](https://github.com/P4t0R)
-* [UART-MicroPython](https://docs.micropython.org/en/latest/library/machine.UART.html)
+* [UART-Arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
