@@ -39,3 +39,4 @@ Links de interes:
 
 * [P4t0R-GitHub](https://github.com/P4t0R)
 * [UART-Arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
+* [Seeeduino Documentación](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
