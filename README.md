@@ -21,7 +21,7 @@ Al enviar un mensaje el Arduino lo lee y retorna el mismo mensaje.
 
 #
 ### Abrir IDE Arduino y cargar el código, luego estamos listos para enviar mensajes
-![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img3.PNG?raw=true)
+![alt text](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/img/img3.PNG?raw=true)
 
 ----
 
