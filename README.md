@@ -8,7 +8,7 @@ en resumen sirve para enviar mensajes por medio de PuTTY al Seeeduino.
 ----
 #
 ### Enviando Mensajes por medio de PuTTY
-Al enviar un mensaje la Raspberry lo lee y retorna el mismo mensaje.
+Al enviar un mensaje el Arduino lo lee y retorna el mismo mensaje.
 ![alt text](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/img/img1.PNG?raw=true)
 
 #
@@ -20,14 +20,14 @@ Al enviar un mensaje la Raspberry lo lee y retorna el mismo mensaje.
 ![alt text](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/img/img4.PNG?raw=true)
 
 #
-### Abrir Thonny y cargar el código, luego estamos listos para enviar mensajes
+### Abrir IDE Arduino y cargar el código, luego estamos listos para enviar mensajes
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img3.PNG?raw=true)
 
 ----
 
 #
-### Raspberry Pico PinOut
-![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/Seeeduino-XIAO-pinout-1.JPG?raw=true)
+### Seeeduino Xiao PinOut
+![alt text](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/img/Seeeduino-XIAO-pinout-1.jpg?raw=true)
 
 #
 ### USB-TTL CH340G PinOut (Imagen Referencial)
