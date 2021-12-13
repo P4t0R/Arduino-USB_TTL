@@ -3,7 +3,7 @@
 Programa de comunicación serial entre un **Seeeduino Xiao** y un **usb-TTL**, 
 en resumen sirve para enviar mensajes por medio de PuTTY al Seeeduino.
 
-*   [RaspberryPico-usb_TTL](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/main.py)
+*   [RaspberryPico-usb_TTL](https://github.com/P4t0R/Arduino-USB_TTL/blob/main/Main.ino)
    
 ----
 #
